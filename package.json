@@ -61,7 +61,6 @@
   },
   "dependencies": {
     "core-util-is": "^1.0.2",
-    "env-to-code": "^1.0.4",
     "err-object": "^5.1.4",
     "has-own-prop": "^2.0.0",
     "is-absolute": "^1.0.0",
